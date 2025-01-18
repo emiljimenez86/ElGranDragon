@@ -23,6 +23,12 @@ h2 {
     margin: auto;
 }
 
+.btn-danger {
+    border-color:#f4f5f6;
+    outline: none;
+    box-shadow: -6px -20px 35px #ffd700, -6px -10px 15px #ffd700, -20px 0px 30px #ffd700, 6px 20px 25px rgba(0,0,0,0.2);
+}
+
 .menu-img {
     max-width: 100%;
     height: auto;
