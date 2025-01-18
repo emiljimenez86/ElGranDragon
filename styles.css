@@ -15,7 +15,7 @@ h2 {
 }
 
 .logo-cuadrado {
-    width: 150px; /* Ajusta al tamaño que prefieras */
+    width: 250px; /* Ajusta al tamaño que prefieras */
     height: auto; /* Igual al ancho para mantenerlo cuadrado */
     object-fit: cover; /* Ajusta la imagen sin distorsionarla */
     border-radius: 10px; /* Opcional: añade bordes redondeados */
