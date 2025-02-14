@@ -76,15 +76,17 @@ h5.card-title{
 .Horario {
     font-size: 0.9rem; 
 }
+
+
+
+
 .btn-whatsapp {
-    font-size: 90%;
-    display: flex;
+    width: 100%;
+    font-size: 0.9rem;
+    font-weight: bold;
+    display: block;
     align-items: center;
     justify-content: center;
-    margin-left: 24%;
-    margin-right: 24%;
-}
-.btn-whatsapp img {
-    margin-right: 8px;
-    width: 24px; 
+    margin: 5px auto;
+    padding: 5px 10px;
 }
