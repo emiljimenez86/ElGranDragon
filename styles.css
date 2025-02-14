@@ -82,6 +82,7 @@ h5.card-title{
 
 .btn-whatsapp {
     width: 100%;
+    position: relative;
     font-size: 0.9rem;
     font-weight: bold;
     display: block;
